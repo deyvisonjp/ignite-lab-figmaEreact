@@ -17,3 +17,8 @@
 ## Extensões recomendadas
 - Tailwind CSS IntelliSense
 - PostCSS Language Support
+- npx sb init --builder @storybook/builder-vite --use-npm
+    - EXECUTAR storybook: `npm run storybook`
+
+    
+*****PAREI COM 21MIN DO 2º Vídeo
